@@ -1,0 +1,19 @@
+header {
+  background: #a2d2ff;
+  color: #ff865e;
+  font-size: 30px;
+  display: flex;
+}
+
+a.teammates {
+  color: white;
+}
+
+header div.login {
+  flex: 1;
+  margin-right: 0.5rem;
+  text-align: right;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
