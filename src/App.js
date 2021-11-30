@@ -23,7 +23,7 @@ function App() {
         </Route>
 
         <Route path='/myprofile'>
-          <MyProfile />
+          <Myprofile />
         </Route>
 
       </Switch>
