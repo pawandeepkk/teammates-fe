@@ -5,7 +5,6 @@ import SignIn from './components/pages/Signin';
 import Contact from './components/pages/Contact';
 import Myprofile from './components/pages/Myprofile';
 
-
 function App() {
   return (
     <Layout>
